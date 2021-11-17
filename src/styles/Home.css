@@ -1,0 +1,65 @@
+.home-logo{
+    width:30%;
+}
+.navbar-brand{
+    margin-right: 0;
+    padding-right: 0;
+}
+.first{
+    background-image: url('../img/car2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    font-family: 'Montserrat', sans-serif;
+}
+.sz{
+ font-size: 2rem;
+}
+.second{
+    font-family: 'Montserrat', sans-serif;
+    padding-top:2%;
+    text-align: center;
+}
+.heading{
+    font-size: 3rem;
+    text-align: center;
+}
+.data{
+    padding-left:5%;
+    padding-right: 5%;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.third{
+    font-family: 'Montserrat', sans-serif;
+    padding-top:3%;
+    padding-left:5%;
+    padding-right: 5%;
+}
+.a{
+    font-size: 2rem;
+}
+.b{
+    font-size: 1rem;
+}
+.v{
+    padding-bottom: 2%;
+}
+.nv{
+    background-color: #0e0e10 !important ;
+}
+
+.fd{
+    display: flex ; 
+    flex-direction: column;
+}
+.fdf{
+    margin-bottom:5px;
+}
+.fds{
+    font-size:1.5rem !important ; 
+}

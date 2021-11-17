@@ -1,0 +1,23 @@
+.register{
+    text-align: center;
+}
+.reg{
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 1%;
+}
+.forms{
+    text-align: left;
+    padding-left:41%;
+    padding-right: 41%;
+    padding-top:1%;
+}
+.pp{
+    text-align: center;
+    font-size: 1.2rem ;
+    font-family: monospace;
+    padding-bottom: 2%;
+}
+.sp{
+    margin-left:15%;
+}

@@ -1,0 +1,31 @@
+.rentcar-first{
+    padding-top:7%;
+    padding-left:20%;
+    padding-right: 20%;
+}
+.img-car{
+    width:90%;
+}
+.ls{
+    list-style: none !important;
+    font-family: monospace !important;
+    font-size: 1.5rem !important;
+    font-weight: bold;
+}
+.rentcar-head{
+    font-size: 2rem ;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    padding-top:2%;
+}
+.rentcar-body{
+    text-align: center;
+}
+.k{
+    padding-top:1%;
+}
+.bk{
+    margin-top:1%;
+    margin-bottom: 2%;
+}
